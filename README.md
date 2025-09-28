@@ -114,4 +114,4 @@ Full-stack application for a **Clinical record registration and control system**
 - **Smooth animations** with Framer Motion  
 
 
-### Click on clinic_front or clinic_back to see the code for each repository.
+### Click on front or back to see the code for each repository.
